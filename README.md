@@ -1,3 +1,4 @@
-Hi, I'm Krishna Vamsi Anem!
+Hi, I'm Krishna Vamsi Anem, an Engineering student of RGUKT Nuzvid!
 
-and I'm a Machine Learning student Researcher, currently in pre-final year of Electronics and Communications Engineering.
+I have been working with Machine Learning, Deep Learning and LLM Applications from 2022!
+I love to create real-world LLM applications and also interested in reliable Evaluation methods for these applications.
