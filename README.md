@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave" />
   <h1>Hey, I'm Vamsi 👋</h1>
-  <h3>AI Engineer building production-ready AI systems (LLMs and agentic AI) that solve a real problem.</h3>
+  <h3>AI Engineer building production-ready Agentic AI systems that solve a real problem.</h3>
 </div>
 
 <br />
