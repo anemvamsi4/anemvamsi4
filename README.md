@@ -1,19 +1,28 @@
-<div >
+<div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave" />
-  <h1>Hello, I'm Vamsi</h1>
-  <h3>AI Engineer building production-ready systems with LLMs and agentic AI</h3>
+  <h1>Hey, I'm Vamsi 👋</h1>
+  <h3>AI Engineer building production-ready AI systems (LLMs and agentic AI) that solve a real problem.</h3>
 </div>
 
 <br />
 
-## Tech Stack
+## 🚀 What I Do
 
-**Languages:** Python • SQL • TypeScript • JavaScript • C++    
-**Backend:** FastAPI • Docker • REST APIs • WebSockets   
-**AI/ML:** LangChain • Google ADK • Open AI • Gemini AI • PyTorch • TensorFlow • Scikit-learn   
-**Cloud & Databases:** Google Cloud Platform • Supabase • Pinecone • ElasticSearch    
+I build AI systems to solve real-world problems. From medical image research to production applications, I focus on making AI practical and deployable.
 
+- Researched on medical image segmentation with deep learning
+- Develop end-to-end AI applications using agentic frameworks
+- Deploy scalable systems on Cloud with Docker
+- Compete in hackathons to push my limits and learn fast
 
+<br />
+
+## 💻 Tech Stack
+
+**Languages:** Python • SQL • TypeScript • JavaScript • C++  
+**Backend:** FastAPI • Docker • REST APIs • WebSockets  
+**AI/ML:** LangChain • Google ADK • Open AI • Gemini AI • PyTorch • TensorFlow • Scikit-learn  
+**Cloud & Databases:** Google Cloud Platform • Supabase • Pinecone • ElasticSearch
 
 <br />
 
