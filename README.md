@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Wave" />
   <h1>Hello, I'm Vamsi</h1>
   <h3>AI Engineer building production-ready systems with LLMs and agentic AI</h3>
